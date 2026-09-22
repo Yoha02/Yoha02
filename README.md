@@ -24,16 +24,16 @@ I'm a senior engineering leader, AI architect, founder of **[AgenticWorks](https
 
 I presented **[Silos to Synergy: Architecting Scalable Multi-Agent Systems](https://www.linkedin.com/feed/update/urn:li:activity:7459590446554435584/)** at the Developer Theater. Our **AI-mmunity** team won Google Cloud's Agentic AI Arena.
 
-The talk explored data readiness, evaluating the whole agent system, and managing orchestration and permission boundaries.
+I led the team, coordinated and integrated teammates' code, and set up agent orchestration. The talk explored data readiness, evaluating the whole agent system, and managing permission boundaries.
 
-[Project and team](https://yoha02.github.io/A4G_LandingPage/) · [Source code](https://github.com/Yoha02/agent4good) · [Technical recap and discussion](https://www.linkedin.com/feed/update/urn:li:activity:7459590446554435584/)
+[Project and team](https://yoha02.github.io/A4G_LandingPage/) · [Architecture and lessons](https://github.com/Yoha02/agent4good/blob/main/docs/CASE_STUDY.md) · [Technical recap and discussion](https://www.linkedin.com/feed/update/urn:li:activity:7459590446554435584/)
 
 ## Build and learn
 
 | Resource | What it offers |
 |---|---|
-| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | Three labs exploring Gemini, vector search, and RAG. |
-| [CX Lab](https://github.com/Yoha02/CX_Lab) | Team experiments in evaluating and improving voice-agent policies. |
+| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | Three Gemini, vector-search, and RAG labs with sample data, reference solutions, and a dated validation record. |
+| [CX Lab](https://github.com/Yoha02/CX_Lab) | [Reproduce a policy evaluation](https://github.com/Yoha02/CX_Lab/tree/main/examples/policy-evaluation): compare a baseline, inspect failures, and apply safety checks in a synthetic exercise. |
 | [Neural Network Fundamentals](https://github.com/Yoha02/NeuralNet_Fundamentals) | Ten notebooks behind the AgenticWorks learning track. |
 
 ## Core technologies

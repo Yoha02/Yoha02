@@ -10,7 +10,7 @@ I founded [AgenticWorks](https://agenticworks.com/) to help developers understan
 |---|---|---|
 | [NeuralNet Fundamentals](https://agenticworks.com/learn/neuralnet/first-neuron) | A ten-part learning track covering the path from matrices to neural networks, with worked examples and knowledge checks. | [Notebook repository](https://github.com/Yoha02/NeuralNet_Fundamentals) |
 | [Google ADK deep dive](https://agenticworks.com/forum/google-adk-deep-dive) | An illustrated guide to agent types, tools, orchestration, state, evaluation, and deployment. | Examples and references appear in the article. |
-| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | Three labs exploring Gemini, vector search, and RAG. | Lab notebooks and documentation in the repository. |
+| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | Three Gemini, vector-search, and RAG labs with sample data, reference solutions, and a dated validation record. | Lab notebooks and documentation in the repository. |
 
 The AgenticWorks learning index distinguishes the available NeuralNet track from Agentic Systems and Context RAG tracks being authored. [Browse the learning index](https://agenticworks.com/learn).
 
@@ -24,7 +24,7 @@ I presented lessons about data readiness, system-level evaluation, orchestration
 
 - [Presentation photos, project, and team](https://yoha02.github.io/A4G_LandingPage/)
 - [Technical recap and public discussion](https://www.linkedin.com/feed/update/urn:li:activity:7459590446554435584/)
-- [Project source](https://github.com/Yoha02/agent4good)
+- [Architecture case study and my contribution](https://github.com/Yoha02/agent4good/blob/main/docs/CASE_STUDY.md): I led the team, integrated teammates' code, and set up agent orchestration.
 
 Our AI-mmunity team won Google Cloud's Agentic AI Arena. The team page credits Abhi Ram Salammagari, Eyoha Girma, Semaa Amin, Aashna Kunkolienker, Tianchen Cai, and Sreekanth Kannan. [Team account](https://yoha02.github.io/A4G_LandingPage/) · [Google's event page](https://cloudonair.withgoogle.com/events/cloud-ai-arena).
 
@@ -33,6 +33,12 @@ Our AI-mmunity team won Google Cloud's Agentic AI Arena. The team page credits A
 I'm an avid participant in the Bay Area hackathon community and have been part of multiple winning teams. I also enjoy hosting hackathons with companies and local developer communities. These events are a chance to build with others, exchange ideas, and learn through working prototypes.
 
 Alongside AI-mmunity, my [Agent Master hackathon recap](https://www.linkedin.com/feed/update/urn:li:activity:7454247326518312960/) shares another team project and win.
+
+## Reproducible evaluation lesson
+
+[When a better score still deserves a rejection](https://github.com/Yoha02/CX_Lab/tree/main/examples/policy-evaluation) turns a CX Lab policy-design question into a runnable exercise. Compare a baseline and two patches, inspect attempted tool actions, and reproduce a promotion decision. The source, synthetic cases, per-case results, and tests are included.
+
+This is a deterministic teaching exercise, not a live model benchmark or a customer-impact claim.
 
 ## Research in public
 
