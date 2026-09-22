@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-labelledby="title desc">
+<title id="title">Build. Explain. Share.</title><desc id="desc">An original banner for Yoha, with connected nodes representing building, teaching, and collaboration.</desc>
+<rect width="1200" height="176" rx="18" fill="#102536"/>
+<path d="M775 88H845L905 40H1030L1105 88M845 88L905 136H1030L1105 88H1170" fill="none" stroke="#33576a" stroke-width="2"/>
+<path d="M845 88H1105" fill="none" stroke="#33576a" stroke-width="2"/>
+<circle cx="845" cy="88" r="13" fill="#50d3c0"/><circle cx="965" cy="40" r="10" fill="#50d3c0"/>
+<circle cx="965" cy="136" r="10" fill="#efb76e"/><circle cx="1105" cy="88" r="17" fill="#102536" stroke="#50d3c0" stroke-width="3"/>
+<rect x="44" y="50" width="5" height="76" rx="2" fill="#50d3c0"/>
+<text x="70" y="109" fill="#f3f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="650">Build. Explain. Share.</text>
+</svg>
