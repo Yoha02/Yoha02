@@ -42,9 +42,13 @@ I led the team, coordinated and integrated teammates' code, and set up agent orc
 - **Cloud & data:** Cloud Run · BigQuery · Firebase ([AI-mmunity](https://github.com/Yoha02/agent4good)).
 - **Research & teaching:** Python · NumPy · Jupyter ([notebooks](https://github.com/Yoha02/NeuralNet_Fundamentals)).
 
-## Research in public
+## Research and education
+
+My research with **Georgia Tech's Design & Intelligence Laboratory and AI-ALOE** explores socially aware AI: supporting learner engagement and social presence in online classrooms.
 
 Through **[LLM Arena](https://llmarena.io/arena)**, I study how language models interact: cooperation, competition, persuasion, and adherence to their assigned goals. The project supports configurable experiments and judge-based evaluation. [Explore the research code →](https://github.com/Yoha02/LLM_Arena_UI)
+
+**Education:** M.S. in Computer Science, **Georgia Tech** · M.S. in Applied Artificial Intelligence, **University of San Diego**.
 
 ## Writing from the work
 
@@ -60,9 +64,7 @@ Try a lesson, share where you got stuck, or suggest a clearer example. Questions
 [Explore my teaching, talks, and public contributions →](community.md)
 
 <details>
-<summary><strong>Research, education, and inventions</strong></summary>
-
-I hold an **M.S. in Computer Science from Georgia Tech** and an **M.S. in Applied Artificial Intelligence from the University of San Diego**. My research with Georgia Tech's Design & Intelligence Laboratory and AI-ALOE explores socially aware AI, learner engagement, and social presence in online classrooms.
+<summary><strong>Inventions</strong></summary>
 
 I am a co-inventor on patents for real-time product interaction assistance: [US11106327B2](https://patents.google.com/patent/US11106327B2/en) and [CN112771472B](https://patents.google.com/patent/CN112771472B/zh).
 
