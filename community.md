@@ -16,7 +16,7 @@ The AgenticWorks learning index distinguishes the available NeuralNet track from
 
 ## Speaking and team recognition
 
-### Google Cloud Next ’26 — Developer Theater
+### Google Cloud Next ’26 - Developer Theater
 
 **Silos to Synergy: Architecting Scalable Multi-Agent Systems**
 
