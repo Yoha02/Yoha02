@@ -42,11 +42,11 @@ I led the team, coordinated and integrated teammates' code, and set up agent orc
 - **Cloud & data:** Cloud Run · BigQuery · Firebase ([AI-mmunity](https://github.com/Yoha02/agent4good)).
 - **Research & teaching:** Python · NumPy · Jupyter ([notebooks](https://github.com/Yoha02/NeuralNet_Fundamentals)).
 
-## Research and education
+## Questions I work on
 
-My research with **Georgia Tech's Design & Intelligence Laboratory and AI-ALOE** explores socially aware AI: supporting learner engagement and social presence in online classrooms.
+**How can AI support learning and social connection?** My research with **Georgia Tech's Design & Intelligence Laboratory** and the **[National AI Institute for Adult Learning and Online Education (AI-ALOE)](https://aialoe.org/)** explores socially aware AI, learner engagement, and social presence in online classrooms.
 
-Through **[LLM Arena](https://llmarena.io/arena)**, I study how language models interact: cooperation, competition, persuasion, and adherence to their assigned goals. The project supports configurable experiments and judge-based evaluation. [Explore the research code →](https://github.com/Yoha02/LLM_Arena_UI)
+**What happens when language models interact?** Through **[LLM Arena](https://llmarena.io/arena)**, I investigate cooperation, competition, persuasion, and adherence to assigned goals. The [public code](https://github.com/Yoha02/LLM_Arena_UI) supports configurable experiments and judge-based evaluation.
 
 **Education:** M.S. in Computer Science, **Georgia Tech** · M.S. in Applied Artificial Intelligence, **University of San Diego**.
 
