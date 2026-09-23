@@ -32,7 +32,7 @@ I led the team, coordinated and integrated teammates' code, and set up agent orc
 
 | Resource | What it offers |
 |---|---|
-| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | Three Gemini, vector-search, and RAG labs with sample data, reference solutions, and a dated validation record. |
+| [AI Trainings](https://github.com/Yoha02/AI_Trainings) | [A search result is not an answer](https://github.com/Yoha02/AI_Trainings/blob/v0.2.0/docs/retrieval-walkthrough.md): inspect PDF evidence locally, then explore three Gemini, vector-search, and RAG labs. |
 | [CX Lab](https://github.com/Yoha02/CX_Lab) | [Reproduce a policy evaluation](https://github.com/Yoha02/CX_Lab/tree/main/examples/policy-evaluation): compare a baseline, inspect failures, and apply safety checks in a synthetic exercise. |
 | [Neural Network Fundamentals](https://github.com/Yoha02/NeuralNet_Fundamentals) | Ten notebooks behind the AgenticWorks learning track. |
 
